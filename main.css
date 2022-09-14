@@ -1,0 +1,38 @@
+html {
+	background: #DDD;
+}
+
+body {
+	background: #EEE;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	margin: 0 auto;
+	max-width: 720px;
+	padding: 24px 16px;
+	text-align: justify;
+}
+
+h1 {
+	background: #EEE;
+	font-size: 150%;
+	margin: 0;
+	padding: 24px 0 16px;
+	border-bottom: 1px solid #999;
+}
+
+h2 {
+	background: #EEE;
+	font-size: 125%;
+	margin: 0;
+	padding: 16px 0 8px;
+	border-bottom: 1px solid #CCC;
+}
+
+p {
+	line-height: 1.5;
+	margin: 8px 0;
+}
+
+li {
+	line-height: 1.5;
+}
